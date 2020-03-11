@@ -3,7 +3,7 @@ Three batch scripts to update youtube-dl, download an audio .mp3 or a video in t
 
 # Getting things setup
 - Grab the three .bat files from here
-- Make a folder of your name choice and toss these three batch scripts into it and place said folder anywhere you wish.
+- Make and name a folder of your choice and toss these three batch scripts into it and place said folder anywhere you wish.
 - Get youtube-dl from here https://github.com/ytdl-org/youtube-dl/releases (official github for youtube-dl)
      - Download **youtube-dl.exe** listed under **Assests** from the **Latest release**
      - Now place youtube-dl.exe into the same folder you created from the first step.
@@ -18,7 +18,7 @@ Three batch scripts to update youtube-dl, download an audio .mp3 or a video in t
 By looking at the batch scripts it is self explainitory on which one to use for your needs
 
 - First you will copy the url to what you want to convert.
-- Second just double click one of the scripts betlow depending upon your needs.
+- Second just double click one of the scripts below depending upon your needs.
 - **1-Convert-To-AUDIO.bat** will convert to the highest quality available in .mp3 format.
 - **1-Convert-To-VIDEO.bat** will convert to the highest quality available in .mkv format.
 
