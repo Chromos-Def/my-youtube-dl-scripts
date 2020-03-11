@@ -27,4 +27,4 @@ That is all there is to it, short, simple and to the point.
 # A list of sites available to use with youtube-dl
 https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md
 
-**NOTE:** If youtube-dl every shouts at you about it being out of date, just run **0-Update.bat** it will automatically update it.
+**NOTE:** If youtube-dl ever shouts at you about it being out of date, just run **0-Update.bat** and it will automatically update it.
