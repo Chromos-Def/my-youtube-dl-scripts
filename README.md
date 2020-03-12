@@ -1,5 +1,5 @@
 # my-youtube-dl-scripts
-Three batch scripts to update youtube-dl, download an audio .mp3 or a video in the .mkv format.
+Three batch scripts to update youtube-dl through official means (once you get things setup, see below), download either an audio file of .mp3 format or a video file of .mkv format.
 
 # Getting things setup
 - Download my-youtube-dl-scripts https://github.com/Chromos-Def/my-youtube-dl-scripts/archive/master.zip
