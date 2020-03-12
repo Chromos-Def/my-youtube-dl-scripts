@@ -22,7 +22,7 @@ Three batch scripts to update youtube-dl, download an audio .mp3 or a video in t
 
 That is all there is to it, short, simple and to the point.
 
+**NOTE:** If youtube-dl ever shouts at you about it being out of date, just run **0-Update.bat** and it will automatically update it.
+
 # A list of sites available to use with youtube-dl
 https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md
-
-**NOTE:** If youtube-dl ever shouts at you about it being out of date, just run **0-Update.bat** and it will automatically update it.
