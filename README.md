@@ -3,7 +3,7 @@ My batch scripts to update youtube-dl through official means (once you get thing
 
 # Getting things setup
 - Download my-youtube-dl-scripts https://github.com/Chromos-Def/my-youtube-dl-scripts/archive/master.zip
-- Make and name a folder of your choice, toss the three .bat files into it and place said folder anywhere you wish.
+- Make and name a folder of your choice, toss these .bat files into it and place said folder anywhere you wish.
 - Get youtube-dl from here https://github.com/ytdl-org/youtube-dl/releases (official github for youtube-dl)
      - Download **youtube-dl.exe** listed under **Assests** from the **Latest release**
      - Now place youtube-dl.exe into the same folder you created from the second step.
