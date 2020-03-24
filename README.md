@@ -17,7 +17,7 @@ My batch scripts to update youtube-dl through official means (once you get thing
 # Guide on how to use
 - First you will copy the url to what you want to convert.
 - Second just double click one of the scripts below depending upon your needs.
-- **1-Convert-To-AUDIO-MP#.bat** will convert to the highest quality available in .mp3 format.
+- **1-Convert-To-AUDIO-MP3.bat** will convert to the highest quality available in .mp3 format.
 - **1-Convert-To-VIDEO-MKV.bat** will convert to the highest quality available in .mkv format.
 - **1-Convert-To-VIDEO-MP4.bat** will convert to the highest quality available in .mp4 format.
 
