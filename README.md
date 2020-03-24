@@ -1,5 +1,5 @@
 # my-youtube-dl-scripts
-Three batch scripts to update youtube-dl through official means (once you get things setup, see below), download either an audio file of .mp3 format or a video file of .mkv format.
+My batch scripts to update youtube-dl through official means (once you get things setup, see below), download either an audio file of .mp3 format or a video file of .mkv or .mp4 format.
 
 # Getting things setup
 - Download my-youtube-dl-scripts https://github.com/Chromos-Def/my-youtube-dl-scripts/archive/master.zip
@@ -17,8 +17,9 @@ Three batch scripts to update youtube-dl through official means (once you get th
 # Guide on how to use
 - First you will copy the url to what you want to convert.
 - Second just double click one of the scripts below depending upon your needs.
-- **1-Convert-To-AUDIO.bat** will convert to the highest quality available in .mp3 format.
-- **1-Convert-To-VIDEO.bat** will convert to the highest quality available in .mkv format.
+- **1-Convert-To-AUDIO-MP#.bat** will convert to the highest quality available in .mp3 format.
+- **1-Convert-To-VIDEO-MKV.bat** will convert to the highest quality available in .mkv format.
+- **1-Convert-To-VIDEO-MP4.bat** will convert to the highest quality available in .mp4 format.
 
 That is all there is to it, short, simple and to the point.
 
