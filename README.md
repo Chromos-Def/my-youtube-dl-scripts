@@ -8,7 +8,7 @@ My batch scripts for youtube-dl to download either an audio file of .mp3 format 
      - Download **youtube-dl.exe** listed under **Assests** from the **Latest release**
      - Now place youtube-dl.exe into the same folder you created from the second step.
 - Next we need to get **ffmpeg** so youtube-dl can do the magical thing of downloading audio and video.
-- Get ffmpeg from here https://ffmpeg.zeranoe.com/builds/ (official website for ffmpeg
+- Get ffmpeg from here https://ffmpeg.zeranoe.com/builds/ (official website for ffmpeg)
      - Download the latest release under **version** to ensure stability.
      - Inside the ffmpeg.zip you just downloaded there will be a **bin** folder. Inside will be three .exe files.
      - Now place these three .exe files into the same folder you created from the second step.
