@@ -1,5 +1,6 @@
 # my-youtube-dl-scripts
 My batch scripts for youtube-dl to download either an audio file of .mp3 format or a video file of .mkv or .mp4 format.
+youtube-dl supports 1100+ websites to pull audio and/or video from. Check out the supported sites list at the bottom.
 
 # Getting things setup
 - Download my-youtube-dl-scripts https://github.com/Chromos-Def/my-youtube-dl-scripts/archive/master.zip
