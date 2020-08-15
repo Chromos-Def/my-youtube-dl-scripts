@@ -16,6 +16,7 @@ My batch scripts for youtube-dl to download either an audio file of .mp3 format 
 
 # Guide on how to use
 - First you will copy the URL of what you want to convert.
+     -  example URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 - Second just double click one of the scripts below depending upon your needs.
      - **Convert-To-AUDIO-MP3.bat** will convert to the highest quality available in .mp3 format.
      - **Convert-To-VIDEO-MKV.bat** will convert to the highest quality available in .mkv format.
