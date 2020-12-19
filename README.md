@@ -19,9 +19,11 @@ youtube-dl supports 1100+ websites to pull audio and/or video from. Check out th
 - First you will copy the URL of what you want to convert.
      -  example URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 - Second just double click one of the scripts below depending upon your needs.
+     - **0-Update.bat** run to manually update youtube-dl (if you run into issues using the normal scripts below)
      - **Convert-To-AUDIO-MP3.bat** will convert to the highest quality available in .mp3 format.
      - **Convert-To-VIDEO-MKV.bat** will convert to the highest quality available in .mkv format.
      - **Convert-To-VIDEO-MP4.bat** will convert to the highest quality available in .mp4 format.
+     - **Convert-To-VIDEO-NORMAL.bat** will run only the normal command without special parameters (useful for websites other than youtube)
 
 That is all there is to it, short, simple and to the point.
 

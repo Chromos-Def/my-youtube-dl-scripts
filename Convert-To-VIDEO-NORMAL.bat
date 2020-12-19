@@ -8,7 +8,7 @@ echo.
 powershell -command "Get-Clipboard" > dl-url.txt
 for /f "delims=" %%x in (dl-url.txt) do set content=%%x
 echo youtube-dl doing its magic
-youtube-dl.exe %content% --geo-bypass -f bestvideo+bestaudio --merge-output-format mkv -o "%%(title)s.%%(ext)s"
-echo Magic is done, enjoy your MKV
+youtube-dl.exe %content%
+echo Magic is done, enjoy your video file
 echo.
 pause
