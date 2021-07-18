@@ -1,4 +1,5 @@
 @echo off
+title youtube-dl-MP3
 echo.
 echo Checking for updates to youtube-dl
 youtube-dl.exe --update

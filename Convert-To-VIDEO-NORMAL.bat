@@ -1,4 +1,5 @@
 @echo off
+title youtube-dl-NORMAL
 echo.
 echo Checking for updates to youtube-dl
 youtube-dl.exe --update
