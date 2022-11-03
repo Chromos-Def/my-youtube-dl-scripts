@@ -1,5 +1,4 @@
-# my-youtube-dl-scripts
-*which now uses yt-dlp*
+# my-youtube-dl-scripts - *which now uses yt-dlp*
 My batch scripts for youtube-dl/yt-dlp to download either an audio file of .mp3 format or a video file of .mkv or .mp4 format.
 yt-dlp supports 1600+ websites to pull audio and/or video from. Check out the supported sites list at the bottom.
 
