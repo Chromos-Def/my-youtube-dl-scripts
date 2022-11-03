@@ -1,3 +1,3 @@
-title Updating youtube-dl
-youtube-dl.exe --update
+title Updating yt-dlp
+yt-dlp.exe -U
 pause

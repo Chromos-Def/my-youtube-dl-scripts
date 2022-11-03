@@ -1,14 +1,15 @@
 # my-youtube-dl-scripts
-My batch scripts for youtube-dl to download either an audio file of .mp3 format or a video file of .mkv or .mp4 format.
-youtube-dl supports 1100+ websites to pull audio and/or video from. Check out the supported sites list at the bottom.
+# which now uses yt-dlp
+My batch scripts for youtube-dl/yt-dlp to download either an audio file of .mp3 format or a video file of .mkv or .mp4 format.
+yt-dlp supports 1600+ websites to pull audio and/or video from. Check out the supported sites list at the bottom.
 
 # Getting things setup
 - Download my-youtube-dl-scripts https://github.com/Chromos-Def/my-youtube-dl-scripts/archive/master.zip
 - Make and name a folder of your choice, toss the .bat files above into it and place said folder anywhere you wish.
-- Get youtube-dl from here https://github.com/ytdl-org/youtube-dl/releases (official github for youtube-dl)
-     - Download **youtube-dl.exe** listed under **Assests** from the **Latest release**
-     - Now place youtube-dl.exe into the same folder you created from the second step.
-- Next we need to get **ffmpeg** so youtube-dl can do the magical thing of downloading audio and video.
+- Get yt-dlp from here https://github.com/yt-dlp/yt-dlp/releases (official github for yt-dlp)
+     - Download **yt-dlp.exe** listed under **Assests** from the **Latest release**
+     - Now place yt-dlp.exe into the same folder you created from the second step.
+- Next we need to get **ffmpeg** so yt-dlp can do the magical thing of downloading audio and video.
 - Get ffmpeg from here https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.7z
      ~~- Download the latest release under **version** to ensure stability.~~
      - Inside the .7z you just downloaded there will be a **bin** folder. Inside will be three .exe files.
@@ -19,7 +20,7 @@ youtube-dl supports 1100+ websites to pull audio and/or video from. Check out th
 - First you will copy the URL of what you want to convert.
      -  example URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 - Second just double click one of the scripts below depending upon your needs.
-     - **0-Update.bat** run to manually update youtube-dl (if you run into issues using the normal scripts below)
+     - **0-Update.bat** run to manually update yt-dlp (if you run into issues using the normal scripts below)
      - **Convert-To-AUDIO-MP3.bat** will convert to the highest quality available in .mp3 format.
      - **Convert-To-VIDEO-MKV.bat** will convert to the highest quality available in .mkv format.
      - **Convert-To-VIDEO-MP4.bat** will convert to the highest quality available in .mp4 format.
@@ -27,5 +28,5 @@ youtube-dl supports 1100+ websites to pull audio and/or video from. Check out th
 
 That is all there is to it, short, simple and to the point.
 
-# A list of sites available to use with youtube-dl
-https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md
+# A list of sites available to use with yt-dlp
+https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
